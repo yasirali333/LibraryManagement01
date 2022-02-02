@@ -1,0 +1,59 @@
+*{
+	margin: 0px;
+}
+#container
+{
+ width: 100%;
+ height: 550px;   
+}
+#h
+{
+ width: 100%;
+ height: 100px;
+ background-color: blue; 
+ font-size: 40px;
+ font-family: AngryBirds;
+ text-align: center;  
+ color: white;  
+}
+
+#menu1
+{
+ width: 18%;
+ height: 543px;  
+ background-color: blue; 
+ text-align: center;
+ float: left;
+ margin-top: 3px;
+ margin-left: 11px;
+ margin-right: 10px;
+}
+
+.tab
+{
+  background-color: white;
+  width: 130px;
+  font-size: 15px;
+ 
+}
+.T
+{
+ color: blue;   
+}
+#main1
+{
+ width: 79%;
+ height: 546px;
+ background-image:url('p2.jpg');
+ margin-left: 20%;
+ margin-top: 10px;
+
+}
+.searchbar
+{
+ position: absolute;
+ top: 200px;
+ left: 100px;
+ height: 1000px;
+ width: 600px;
+}
